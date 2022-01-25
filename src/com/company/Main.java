@@ -10,6 +10,6 @@ public class Main {
 
         System.out.println("Esto es una version de prueba");
 
-        System.out.println("Hola soy Olivia");
+        System.out.println("Hola soy Olivia, quiero hacer muchos proyectos.");
     }
 }
