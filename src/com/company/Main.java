@@ -10,9 +10,5 @@ public class Main {
 
         System.out.println("Esto es una version de prueba");
 
-        System.out.println("Hola soy Juan");
-
-        System.out.println("Hola soy Oli");
-
     }
 }
